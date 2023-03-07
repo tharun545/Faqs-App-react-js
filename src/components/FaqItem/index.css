@@ -1,0 +1,19 @@
+/* Write your code here. */
+.plus-button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.question-card {
+  border: 1px #d7dae6 solid;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  list-style-type: none;
+}
+.display-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
